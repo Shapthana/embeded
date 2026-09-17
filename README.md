@@ -35,3 +35,4 @@ Sensor data and GPS coordinates are collected and transmitted every 5 seconds vi
 ## Conclusion
 
 A low-cost, efficient solution for early forest fire detection in remote & inaccessible areas.
+Edit
