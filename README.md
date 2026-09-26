@@ -30,7 +30,7 @@ Sensor data and GPS coordinates are collected and transmitted every 5 seconds vi
 * Node.js
 * REST APIs
 
-
+Add checksum
 
 ## Conclusion
 
